@@ -1,0 +1,225 @@
+
+/*Carousel fade effect style*/
+#hmslider .carousel-fade .carousel-inner .item {
+            -webkit-transition-property: opacity;
+            transition-property: opacity;
+        }
+#hmslider .carousel-fade .item,
+#hmslider .carousel-fade .active.left,
+#hmslider .carousel-fade .active.right {
+            opacity: 0;
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+        }
+
+#hmslider .carousel-fade .active,
+#hmslider .carousel-fade .next.left,
+#hmslider .carousel-fade .prev.right {
+            opacity: 1;
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+        }
+
+#hmslider .carousel-fade .next,
+#hmslider .carousel-fade .prev,
+#hmslider .carousel-fade .active.left,
+#hmslider .carousel-fade .active.right {
+            left: 0;
+            -webkit-transform: translate3d(0, 0, 0);
+                    transform: translate3d(0, 0, 0);
+        }
+#hmslider .carousel-fade .carousel-control {
+        z-index: 2;
+    }
+
+.hslider-ind{
+	opacity:0;
+}
+
+
+/*--------------------------------
+[ Awesome carousel mobile style  ]
+-----------------------------------*/
+
+#hmslider img.bg-img {
+  background-position: center center;
+  background-size: cover;
+  min-height: 600px;
+  width: 100%;
+}
+
+#hmslider .overlay {
+    background: #000 none repeat scroll 0 0;
+    height: 100%;
+    left: 0;
+    opacity: 0.4;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+#hmslider .item {
+    position: relative;
+}
+#hmslider .posi-abs{ 
+    position:absolute;
+    z-index: -1;
+}
+#hmslider .item .carousel-caption {
+  text-align: center;
+  height: 100%;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+/*Resturent Carousel style start*/
+#hmslider .carousel-inner .item .carousel-caption{ 
+    display:none;
+}
+#hmslider .carousel-inner .item.active .carousel-caption{ 
+    display:block
+}
+/*slider one style*/
+#hmslider .left-text {
+  margin-left: 20%;
+  text-align: left;
+}
+#hmslider .right-text {
+  margin-right: 20%;
+  text-align: right;
+}
+#hmslider h1.brand {
+  color: #ec971f;
+}
+#hmslider .cap-text {
+  margin-top: 5%;
+}
+#hmslider .mob1 {
+  left: 3%;
+  top: 3%;
+}
+#hmslider .mob1 img {
+    width: 90%;
+}
+#hmslider .mob2 {
+  right: 6%;
+  top: 1%;
+}
+#hmslider .mob2 img {
+    width: 90%;
+}
+
+#hmslider .carousel-inner .item.active .carousel-caption .mob1 {
+    -webkit-animation: bounceInDown 500ms ease-in-out;
+    animation: bounceInDown 500ms ease-in-out;
+}
+#hmslider .carousel-inner .item.active .carousel-caption .mob2 {
+    -webkit-animation: bounceInDown 1000ms ease-in-out;
+    animation: bounceInDown 1000ms ease-in-out;
+}
+#hmslider .carousel-inner .item.active .carousel-caption .brand {
+    -webkit-animation: fadeIn 1500ms ease-in-out;
+    animation: fadeIn 1500ms ease-in-out;
+}
+#hmslider .carousel-inner .item.active .carousel-caption .mf1 {
+    -webkit-animation: fadeInUpBig 2000ms ease-in-out;
+    animation: fadeInUpBig 2000ms ease-in-out;
+}
+#hmslider .carousel-inner .item.active .carousel-caption .mf2 {
+    -webkit-animation: fadeInUpBig 2500ms ease-in-out;
+    animation: fadeInUpBig 2500ms ease-in-out;
+}
+#hmslider .carousel-inner .item.active .carousel-caption .mf3 {
+    -webkit-animation: fadeInUpBig 3000ms ease-in-out;
+    animation: fadeInUpBig 3000ms ease-in-out;
+}
+#hmslider .carousel-inner .item.active .carousel-caption .mf4 {
+    -webkit-animation: fadeInUpBig 3300ms ease-in-out;
+    animation: fadeInUpBig 3300ms ease-in-out;
+}
+#hmslider .carousel-inner .item.active .carousel-caption .mf5 {
+    -webkit-animation: fadeInUpBig 3600ms ease-in-out;
+    animation: fadeInUpBig 3600ms ease-in-out;
+}
+#hmslider .carousel-inner .item.active .carousel-caption .mf6 {
+    -webkit-animation: fadeInUpBig 4000ms ease-in-out;
+    animation: fadeInUpBig 4000ms ease-in-out;
+}
+#hmslider .carousel-inner .item.active .carousel-caption .mf7 {
+    -webkit-animation: fadeInUpBig 4400ms ease-in-out;
+    animation: fadeInUpBig 4400ms ease-in-out;
+}
+#hmslider .carousel-inner .item.active .carousel-caption .mf7 {
+    -webkit-animation: fadeInUpBig 5000ms ease-in-out;
+    animation: fadeInUpBig 5000ms ease-in-out;
+}
+
+/*slide style three*/
+#hmslider .mob4 {
+    left: 36%;
+    top: 16%;
+}
+#hmslider .mob4 img {
+    width: 50%;
+}
+#hmslider .mob3 {
+    left: 10%;
+    top: 5%;
+}
+#hmslider .mob3 img {
+    width: 80%;
+}
+#hmslider .carousel-inner .item.active .carousel-caption .mob3 {
+    -webkit-animation: zoomInLeft 1000ms ease-in-out;
+    animation: zoomInLeft 1000ms ease-in-out;
+}
+#hmslider .carousel-inner .item.active .carousel-caption .mob4 {
+    -webkit-animation: zoomIn 2000ms ease-in-out;
+    animation: zoomIn 2000ms ease-in-out;
+}
+
+
+
+/*Slider responsive code*/
+
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+#hmslider .mob1 {
+  left: -5%;
+  top: 23%;
+}
+#hmslider .mob1 img {
+  width: 60%;
+}
+#hmslider .mob2 {
+  right: 0;
+  top: 23%;
+}
+#hmslider .mob2 img {
+  width: 60%;
+}
+   
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+#hmslider .mob1 {
+  left: -20%;
+  top: 23%;
+}
+#hmslider .mob1 img {
+  width: 40%;
+}
+#hmslider .mob2 {
+  right: -12%;
+  top: 23%;
+}
+#hmslider .mob2 img {
+  width: 40%;
+}
+#hmslider .right-text {
+  margin-right: 0;
+  text-align: center;
+}
+ 
+    
+}

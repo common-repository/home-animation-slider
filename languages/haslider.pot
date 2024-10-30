@@ -1,0 +1,268 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Home animation slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-10 12:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: admin/haslider-slider-column-set.php:62
+msgid " No item added!"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A simple slider plugin.You can create lots of slider and simple slider by "
+"this plugin."
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:69 admin/haslider-slider-meta-tab.php:147
+#: admin/haslider-slider-meta-tab.php:217
+msgid "Add background image"
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:174
+msgid "Add more text"
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:54 admin/haslider-slider-meta-tab.php:202
+msgid "Add new item"
+msgstr ""
+
+#: admin/haslider-slider-post.php:21 admin/haslider-slider-post.php:22
+msgid "Add New slider"
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:110
+#: admin/haslider-slider-meta-tab.php:179
+#: admin/haslider-slider-meta-tab.php:258
+msgid "Add slider button text."
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:116
+#: admin/haslider-slider-meta-tab.php:185
+#: admin/haslider-slider-meta-tab.php:264
+msgid "Add slider button url."
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:100
+#: admin/haslider-slider-meta-tab.php:169
+#: admin/haslider-slider-meta-tab.php:248
+msgid ""
+"Add slider description. The slider support 6 description text animation."
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:70 admin/haslider-slider-meta-tab.php:148
+#: admin/haslider-slider-meta-tab.php:218
+msgid "Add slider image here."
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:80 admin/haslider-slider-meta-tab.php:158
+#: admin/haslider-slider-meta-tab.php:228
+msgid "Add slider small image one."
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:90 admin/haslider-slider-meta-tab.php:238
+msgid "Add slider small image two."
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:63 admin/haslider-slider-meta-tab.php:141
+#: admin/haslider-slider-meta-tab.php:211
+msgid ""
+"Add slider title. Must fill the field. Sliders can not be seen if it is "
+"empty."
+msgstr ""
+
+#: admin/haslider-slider-post.php:26
+msgid "All slider"
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:30
+msgid "Animation style one"
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:38
+msgid "Animation style three"
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:34
+msgid "Animation style two"
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:109
+#: admin/haslider-slider-meta-tab.php:178
+#: admin/haslider-slider-meta-tab.php:257
+msgid "Button text"
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:115
+#: admin/haslider-slider-meta-tab.php:184
+#: admin/haslider-slider-meta-tab.php:263
+msgid "Button url"
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:99 admin/haslider-slider-meta-tab.php:168
+#: admin/haslider-slider-meta-tab.php:247
+msgid "Description text"
+msgstr ""
+
+#: admin/haslider-slider-post.php:24
+msgid "Edit slider"
+msgstr ""
+
+#: admin/haslider-slider-post.php:75
+msgid "Enter slider name"
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:24
+msgid "haslider slider set-up"
+msgstr ""
+
+#: admin/haslider-slider-post.php:19 admin/haslider-slider-post.php:20
+msgid "Home ani slider"
+msgstr ""
+
+#. Name of the plugin
+msgid "Home animation slider"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://wpthemespace.com"
+msgstr ""
+
+#. Publish box date format, see http://php.net/date
+#: admin/haslider-slider-update-massage.php:39
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: admin/haslider-slider-post.php:23
+msgid "New slider"
+msgstr ""
+
+#: admin/haslider-slider-post.php:29
+msgid "No slider found in Trash."
+msgstr ""
+
+#: includes/haslider-slider-shortcode.php:285
+msgid "No slider found!"
+msgstr ""
+
+#: admin/haslider-slider-post.php:28
+msgid "No slider found."
+msgstr ""
+
+#. Author of the plugin
+msgid "Noor alam"
+msgstr ""
+
+#: admin/haslider-slider-post.php:27
+msgid "Parent slider:"
+msgstr ""
+
+#: includes/haslider-slider-shortcode.php:29
+#: includes/haslider-slider-shortcode.php:90
+#: includes/haslider-slider-shortcode.php:145
+msgid "Read More"
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:55 admin/haslider-slider-meta-tab.php:203
+msgid "Remove item"
+msgstr ""
+
+#: admin/haslider-slider-column-set.php:49
+msgid "Shortcode will appear when you add Items."
+msgstr ""
+
+#: admin/haslider-slider-post.php:18
+msgid "slider"
+msgstr ""
+
+#: admin/haslider-slider-update-massage.php:41
+msgid "slider draft updated."
+msgstr ""
+
+#: admin/haslider-slider-update-massage.php:29
+msgid "slider field deleted."
+msgstr ""
+
+#: admin/haslider-slider-update-massage.php:28
+msgid "slider field updated. Shortcode is:"
+msgstr ""
+
+#: admin/haslider-slider-update-massage.php:37
+#, php-format
+msgid "slider item scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: admin/haslider-slider-update-massage.php:30
+msgid "slider item updated."
+msgstr ""
+
+#: admin/haslider-slider-column-set.php:36
+msgid "slider Items"
+msgstr ""
+
+#: admin/haslider-slider-update-massage.php:33
+msgid "slider published. Shortcode is:"
+msgstr ""
+
+#. %s: date and time of the revision
+#: admin/haslider-slider-update-massage.php:32
+#, php-format
+msgid "slider restored to revision from %s"
+msgstr ""
+
+#: admin/haslider-slider-update-massage.php:34
+msgid "slider saved."
+msgstr ""
+
+#: admin/haslider-slider-column-set.php:35
+msgid "slider Shortcode"
+msgstr ""
+
+#: admin/haslider-slider-update-massage.php:35
+msgid "slider submitted."
+msgstr ""
+
+#: admin/haslider-slider-update-massage.php:27
+msgid "slider updated. Shortcode is:"
+msgstr ""
+
+#: admin/haslider-slider-post.php:17
+msgid "sliders"
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:157
+msgid "Small image"
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:79 admin/haslider-slider-meta-tab.php:227
+msgid "Small image one"
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:89 admin/haslider-slider-meta-tab.php:237
+msgid "Small image two"
+msgstr ""
+
+#: admin/haslider-slider-meta-tab.php:62 admin/haslider-slider-meta-tab.php:140
+#: admin/haslider-slider-meta-tab.php:210
+msgid "Title"
+msgstr ""
+
+#: admin/haslider-slider-post.php:25
+msgid "View slider"
+msgstr ""
+
+#: admin/haslider-slider-post.php:34
+msgid "You can create awesome image sliders with by haslider slider."
+msgstr ""
